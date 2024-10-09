@@ -1,0 +1,15 @@
+.btn-primary1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(153, 153, 153);
+    border-radius: 25px;
+    width: 130px;
+    border-width: 0cap;
+}
+.btn-primary1:hover{
+    color: rgb(250, 250, 250);
+    background-color: rgb(61, 61, 248);
+}
+
+.text-center{
+    margin-top: 40px;
+}

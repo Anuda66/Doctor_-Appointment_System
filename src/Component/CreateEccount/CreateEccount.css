@@ -1,0 +1,30 @@
+.create-eccount{
+    height: 320px;
+    background: #4e76fc;
+    margin-top: 60px;
+    border-radius: 25px;
+}
+.CEImage{
+    height: 320px;
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
+.create-eccount-hedding{
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.crete-eccount-btn{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.eccount-btn{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 25px;
+    width: 150px;
+    height: 50px;
+}
+.head-t{
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+}

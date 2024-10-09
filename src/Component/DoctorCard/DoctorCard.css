@@ -1,0 +1,37 @@
+.carde-containt{
+    margin-top: 60px;
+}
+.craed-image{
+    height:17em;
+    background-color: rgb(149, 202, 246);
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px
+}
+.status{
+    color: rgb(14, 215, 10);
+}
+.doc-Image1{
+    width:14em ;
+    margin-left: 20px;
+}
+.doc-Image2{
+    width:12.35em ;
+    margin-left: 25px;
+}
+.doc-Image3{
+    width:10.9em ;
+    margin-left: 40px;
+}
+.doc-Image4{
+    width:10.47em ;
+    margin-left: 40px;
+}
+.doc-Image5{
+    width:13.78em ;
+    margin-left: 30px;
+}
+.Row-doc{
+    margin-bottom: 30px;
+}

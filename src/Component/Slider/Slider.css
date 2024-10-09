@@ -1,0 +1,25 @@
+.slider{
+    background: #4e76fc;
+    height: 27.5em;
+    border-radius: 20px;
+}
+.sliderHead-t{
+    color: aliceblue;
+    font-size: 60px;
+}
+.btn1{
+    background: #ffffff;
+    color: black;
+    border-radius: 20px;
+}
+.btn1:hover{
+    color: black;
+}
+.sliderHead{
+    margin-top: 110px;
+    margin-left: 60px;   
+}
+.headerbtn{
+    margin-left: 60px;
+    margin-top: 20px;
+}
